@@ -1,0 +1,16 @@
+.homefondo {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwSgcQe_aqlmKgZ4PCfeD5VM3KLFORdgokQ&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contactofondo {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShlfgPFatQEZEAFgykRFFhNaUALhcJvlkr9Q&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul li a {
+  list-style: none;
+  text-decoration: none;
+}

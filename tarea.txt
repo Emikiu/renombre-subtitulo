@@ -1,0 +1,5 @@
+  1. Agregar bootstrap al index
+  2. Crear un layout usando Bootstrap Grids (header, main, footer, etc)
+  3. Pensar una idea para la pagina e implementarla con componentes de Bootstrap
+  4. Crear otra página que utilice el mismo layout creado en el paso 2, pero que 
+  utilice otros componentes de bootstrap.
